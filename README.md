@@ -1,1 +1,1 @@
-# Kidney_disease_prediction
+# Detection of Early stages of Chronic Kidney Disease(CKD)
